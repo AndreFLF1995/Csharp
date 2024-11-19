@@ -1,0 +1,14 @@
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\bin\Debug\Ex01Listas.exe.config
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\bin\Debug\Ex01Listas.exe
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\bin\Debug\Ex01Listas.pdb
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.csproj.AssemblyReference.cache
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.csproj.CoreCompileInputs.cache
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.exe
+E:\Escola\IEFP\C#\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.pdb
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\bin\Debug\Ex01Listas.exe.config
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\bin\Debug\Ex01Listas.exe
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\bin\Debug\Ex01Listas.pdb
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.csproj.AssemblyReference.cache
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.csproj.CoreCompileInputs.cache
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.exe
+E:\Escola\IEFP\C#\Fundamentos\11_10 Listas\Ex01Listas\obj\Debug\Ex01Listas.pdb

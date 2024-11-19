@@ -1,0 +1,7 @@
+E:\Escola\IEFP\C#\03_10\Ex01\bin\Debug\Ex01.exe.config
+E:\Escola\IEFP\C#\03_10\Ex01\bin\Debug\Ex01.exe
+E:\Escola\IEFP\C#\03_10\Ex01\bin\Debug\Ex01.pdb
+E:\Escola\IEFP\C#\03_10\Ex01\obj\Debug\Ex01.csproj.AssemblyReference.cache
+E:\Escola\IEFP\C#\03_10\Ex01\obj\Debug\Ex01.csproj.CoreCompileInputs.cache
+E:\Escola\IEFP\C#\03_10\Ex01\obj\Debug\Ex01.exe
+E:\Escola\IEFP\C#\03_10\Ex01\obj\Debug\Ex01.pdb
